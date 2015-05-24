@@ -50,6 +50,11 @@
                         </td>
                     </tr>
                     <tr>
+                        <td>
+                            <asp:button id="btnForgotPass" runat="server" text="Заборавена лозинка" width="160" onclick="btnForgoten" CausesValidation="False" />
+                        </td>
+                    </tr>
+                    <tr>
                         <td></td>
                     </tr>
                 </table>
