@@ -1,0 +1,6 @@
+C:\Users\Kris\Google Drive\FINKI\Visual Studio\FINKIStore\FINKIStore\bin\FINKIStore.dll.config
+C:\Users\Kris\Google Drive\FINKI\Visual Studio\FINKIStore\FINKIStore\bin\FINKIStore.dll
+C:\Users\Kris\Google Drive\FINKI\Visual Studio\FINKIStore\FINKIStore\bin\FINKIStore.pdb
+C:\Users\Kris\Google Drive\FINKI\Visual Studio\FINKIStore\FINKIStore\obj\Debug\FINKIStore.csprojResolveAssemblyReference.cache
+C:\Users\Kris\Google Drive\FINKI\Visual Studio\FINKIStore\FINKIStore\obj\Debug\FINKIStore.dll
+C:\Users\Kris\Google Drive\FINKI\Visual Studio\FINKIStore\FINKIStore\obj\Debug\FINKIStore.pdb
